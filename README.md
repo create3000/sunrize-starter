@@ -1,1 +1,2 @@
-# sunrize-installer
+# sunrize-starter
+
